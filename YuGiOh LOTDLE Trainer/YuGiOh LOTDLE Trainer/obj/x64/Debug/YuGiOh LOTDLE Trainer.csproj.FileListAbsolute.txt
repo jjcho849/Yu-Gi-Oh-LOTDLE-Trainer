@@ -1,0 +1,13 @@
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh LOTDLE Trainer.csproj.AssemblyReference.cache
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh_LOTDLE_Trainer.Form1.resources
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh_LOTDLE_Trainer.Properties.Resources.resources
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh LOTDLE Trainer.csproj.GenerateResource.cache
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh LOTDLE Trainer.csproj.CoreCompileInputs.cache
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh LOTDLE Trainer.exe
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh LOTDLE Trainer.pdb
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\bin\x64\Debug\YuGiOh LOTDLE Trainer.exe.config
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\bin\x64\Debug\YuGiOh LOTDLE Trainer.exe
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\bin\x64\Debug\YuGiOh LOTDLE Trainer.pdb
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\bin\x64\Debug\Memory.dll
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\bin\x64\Debug\Memory.xml
+C:\Users\joeyc\source\repos\YuGiOh LOTDLE Trainer\YuGiOh LOTDLE Trainer\obj\x64\Debug\YuGiOh LOTDLE Trainer.csproj.CopyComplete
